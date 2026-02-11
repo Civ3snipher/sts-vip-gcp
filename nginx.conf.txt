@@ -9,3 +9,4 @@ stream {
         proxy_pass backend;
     }
 }
+
